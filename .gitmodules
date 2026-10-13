@@ -1,0 +1,9 @@
+[submodule "firmware/buildroot"]
+	path = firmware/buildroot
+	url = https://github.com/buildroot/buildroot.git
+[submodule "firmware/opensbi"]
+	path = firmware/opensbi
+	url = https://github.com/riscv-software-src/opensbi.git
+[submodule "firmware/u-boot"]
+	path = firmware/u-boot
+	url = https://github.com/u-boot/u-boot.git
